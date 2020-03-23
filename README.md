@@ -1,6 +1,6 @@
-# 21-savage-CRUD
+# Thankful
 
-![21 Savage](public/thumbnail.png)
+![Thankful](thankful.png)
 
 ## Installation
 
